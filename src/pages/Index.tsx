@@ -14,7 +14,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50 relative">
       <FloatingElements />
       <Navigation />
-      <Hero3D />
+      {/* <Hero3D /> */}
       <ParallaxBanner />
       <About />
       <Education />

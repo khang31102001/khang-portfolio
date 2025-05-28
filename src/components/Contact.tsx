@@ -32,7 +32,7 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center gap-3">
                 <span className="text-2xl">🔗</span>
-                <a href="#" className="hover:text-blue-300 transition-colors">github.com/leminhkhang</a>
+                <a href="https://github.com/khang31102001" className="hover:text-blue-300 transition-colors">github.com/leminhkhang</a>
               </div>
               <div className="flex items-center gap-3">
                 <span className="text-2xl">🌐</span>
